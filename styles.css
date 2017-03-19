@@ -4,6 +4,10 @@
 		width: 50%;
 	}
 }
+.responsive
+{
+	display: inline-block;
+}
 .center
 {
 	width: 90%;
